@@ -83,6 +83,9 @@ A clear negative relationship exists between return rate and profitability.
 **Insight 6 — Top Products by Return Rate**  
 A small group of products drives a large share of total returns.
 
+**Insight 7 — ROAS Dashboard**  
+Email marketing and Facebook Ads have the lowest aggregate ROAS. On the other hand TikTok Ads and Influencers have the highest. 
+
 ### 🧭 Recommendations
 **Recommendation 1 — Reduce High Return Rates**  
 Improve product descriptions, sizing guidance, and quality checks.
@@ -101,6 +104,9 @@ Add clearer sizing charts, fit recommendations, and usage tips.
 
 **Recommendation 6 — Monitor Return Trends Over Time**  
 Implement recurring performance reviews.
+
+**Recommendation 7 — 20% budget cut** 
+A 20% budget cut can be achieved by reducing the spent amount in low‑ROAS platforms such as Email marketing and Facebook Ads while protecting high‑ROAS platforms such as Tik Tok Ads, Influencers and Instagram.
 
 ## 🧾 7. Conclusion
 From raw transactional data to actionable business insights, this project shows how data clarifies where value is created — and where it is lost. The analysis highlights opportunities to improve profitability by reducing returns, strengthening high‑performing categories, and optimizing channel strategy. The recommendations translate these insights into practical next steps that support long‑term, data‑driven growth.
